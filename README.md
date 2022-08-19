@@ -1,16 +1,20 @@
-# getx_vs_riverpod__flutter
+# getx_vs_riverpod\_\_flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Size comparison
+   - GetX is bigger than Riverpod in size around 200KB
+2. Performance
+   - No significant difference
+3. Syntax complexity
+   - No significant difference
 
-A few resources to get you started if this is your first Flutter project:
+Source : https://www.youtube.com/watch?v=mxkhUYC5yF8
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+General
+GetX - Super simple, Good for beginners, More features
+RiverPod - Safe, Error show during compiling, Nice features with great documentation, Maintainable for large projects
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Source : https://www.youtube.com/watch?v=o4bgDqO4pGk
